@@ -26,12 +26,11 @@
 
 #### 安装
 
-mysql 数据库，官网下载，自定义安装——安装 mysql server 和 mysql workbench(可视化操作)，按默认设置进行安装。**Authentication Method 选第二项**。
+mysql 数据库，官网下载，自定义安装——仅安装 mysql server，不安装 mysql workbench(可视化操作)，太丑了，之后安装 Navicat 来替换他，其他的按默认设置进行安装，**Authentication Method 选第二项**。
 
-[安装教程 1](https://www.php.cn/mysql-tutorials-454993.html)
-[安装教程 2](https://zhuanlan.zhihu.com/p/37152572)
+[安装教程](https://zhuanlan.zhihu.com/p/37152572)
 
-#### mysql workbench 操作数据库
+#### mysql 操作
 
 建表要求
 
